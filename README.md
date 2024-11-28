@@ -5,7 +5,7 @@
 
 - 🔭 I’m recently worked on [Lemon Click](https://lemonclick.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://omkarbhosale.vercel.app/](https://omkarbhosale.vercel.app/)
+- 👨‍💻 All of my projects are available at [omkarbhosale.dev](https://omkarbhosale.dev)
 
 - 💬 Ask me about **ReactJs, NextJs**
 
