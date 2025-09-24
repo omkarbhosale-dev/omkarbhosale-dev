@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love building cool things with code, exploring new technologies, and collaborating on open source projects.
 
-- 🔭 Recently worked on [Lemon Click](https://lemonclick.vercel.app)
+- 🔭 Recently worked on [Adaptive Bitrate Streaming]([https://lemonclick.vercel.app](https://omkarbhosale.dev/blog/abr-stream))
 
 ## 🚀 About Me
 
