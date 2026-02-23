@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 ## 📈 GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhosale-dev&show_icons=true&hide_title=true&count_private=true&theme=github_dark&rank_icon=github)
+[![Profile Stats](https://streak-stats.demolab.com?user=omkarbhosale-dev&theme=merko&hide_border=true&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 ## 📫 How to reach me
 
