@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 ## 📈 GitHub Stats
 
-[![Profile Stats](https://streak-stats.demolab.com?user=omkarbhosale-dev&theme=merko&hide_border=true&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![Profile Stats](https://streak-stats.demolab.com?user=omkarbhosale-dev&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## 📫 How to reach me
 
