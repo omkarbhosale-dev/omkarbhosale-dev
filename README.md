@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love building cool things with code, exploring new technologies, and collaborating on open source projects.
 
-- 🔭 Recently worked on [Adaptive Bitrate Streaming]([https://lemonclick.vercel.app](https://omkarbhosale.dev/blog/abr-stream))
+- 🔭 Recently worked on [Deploy Engine](https://omkarbhosale.dev/projects/deploy-engine)
 
 ## 🚀 About Me
 
@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
-- 🌱 **Currently learning:** ML & GenAI
 
 ## 📈 GitHub Stats
 
